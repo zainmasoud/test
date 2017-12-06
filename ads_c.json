@@ -1,0 +1,47 @@
+{
+
+   
+   "contacts": [
+                                    
+        {
+                "haveads": "1",
+                "urlappads": "com.zico.becuteselfiecamera",
+                "urlbanner": "http://zico.esy.es/ads.png"
+				
+              
+               
+        },
+		  {
+                "haveads": "1",
+                "urlappads": "com.zico.shalt_fahdbinfaslh",
+                "urlbanner": "http://zico.esy.es/ads3.png"
+				
+              
+               
+        },  {
+                "haveads": "1",
+                "urlappads": "com.zico.opencamera",
+                "urlbanner": "http://zico.esy.es/ads5.png"
+				
+              
+               
+        },
+		  {
+                "haveads": "1",
+                "urlappads": "com.zico.cartoonfacechanger",
+                "urlbanner": "http://zico.esy.es/ads7.png"
+				
+              
+               
+        },  {
+                "haveads": "1",
+                "urlappads": "com_zico.music_player",
+                "urlbanner": "http://zico.esy.es/ads9.png"
+				
+              
+               
+        }
+        
+		
+    ]
+}
